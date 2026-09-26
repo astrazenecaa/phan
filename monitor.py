@@ -43,7 +43,7 @@ TIXEL_URL = "https://tixel.com/au/comedy-tickets/2026/11/23/dan-and-phil-hard-la
 # Ticketmaster event URLs are unstable/expire - paste the real one here
 # yourself (search ticketmaster.com.au for "Dan and Phil Melbourne").
 # Leave blank to skip this check.
-TICKETMASTER_URL = ""  # e.g. "https://www.ticketmaster.com.au/event/1B0063A1B2C3D4E5"
+TICKETMASTER_URL = "https://www.ticketmaster.com.au/dan-and-phil-hard-launch-world-st-kilda-23-11-2026/event/130064D6E1A0980F"  # e.g. "https://www.ticketmaster.com.au/event/1B0063A1B2C3D4E5"
 
 REDDIT_QUERIES = [
     "Dan and Phil Melbourne ticket",
